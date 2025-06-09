@@ -1,0 +1,3 @@
+[submodule "somesup-cloud"]
+	path = somesup-cloud
+	url = https://github.com/somesup/somesup-cloud.git
