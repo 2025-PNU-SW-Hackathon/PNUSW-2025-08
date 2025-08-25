@@ -4,28 +4,32 @@
 
 최근 디지털 뉴스 이용 환경에서 **‘뉴스 회피’** 현상이 뚜렷하게 나타나고 있습니다. 국내 뉴스사 통계에 따르면, 이용자들은 뉴스 소비 과정에서 **복잡한 정보 구조, 과도한 기사량, 편파성** 등으로 인해 피로감을 느끼고 있으며, 뉴스 소비 빈도가 지속적으로 감소하는 추세입니다.
 
+<br/>
 <div align="center">
-  <img src="">
+  <img width="600" height="565" alt="image (2)" src="https://github.com/user-attachments/assets/6370bcc1-b574-4d39-9682-dfc860c2421c" />
   <p>언론사 전체 모바일 이용 트래픽 변화 추이, <a href="https://www.mindlenews.com/news/articleView.html?idxno=5365">출처: 민들레 신문</a></p>
 </div>
 
 <div align="center">
-  <img src="">
+  <img width="600" height="367" alt="image (3)" src="https://github.com/user-attachments/assets/0fdc1049-3a39-4346-900d-8bf977111498" />
   <p>뉴스 회피 경험, <a href="https://www.mindlenews.com/news/articleView.html?idxno=5365">출처: 민들레 신문</a></p>
 </div>
 
 <div align="center">
-  <img src="">
+  <img width="680" height="518" alt="image (4)" src="https://github.com/user-attachments/assets/07f11222-f76b-4ac1-a8b5-181ad3a340fa" />
   <p>뉴스가 보기 싫어지는 상황, <a href="https://www.mindlenews.com/news/articleView.html?idxno=5365">출처: 민들레 신문</a></p>
 </div>
+<br/>
 
 2025년 5월 20일부터 27일까지(8일 간), 부산대학교 에브리타임 게시판에서 ‘매일 뉴스를 챙겨보는가?’를 주제로 익명투표를 실시했습니다. 총 36명이 참여한 결과, 8명만이 ‘매일 뉴스를 챙겨본다’고 답했고, 나머지 28명은 ‘뉴스를 매일 챙겨보지 않는다’고 응답했습니다. 뉴스에 관심을 가지지 않는 응답자 중에는 ‘관심 있는 이슈가 있을 때만 검색한다’가 16명, ‘릴스나 쇼츠 등 비공식 플랫폼을 통해 접한다’가 6명, ‘아예 보지 않는다’가 6명으로 나타났습니다.
 
+<br/>
 <div align="center">
-  <img width="300" src="">
-  <img width="300" src="">
+  <img width="344" height="219" alt="스크린샷 2025-08-10 오후 10 47 35" src="https://github.com/user-attachments/assets/382918b7-3654-4028-b393-0b91a5818898" />
+  <img width="344" height="218" alt="스크린샷 2025-08-10 오후 10 47 43" src="https://github.com/user-attachments/assets/8663d922-6286-4317-a0db-845d9da07da8" />
   <p>교내 설문조사 결과</p>
 </div>
+<br/>
 
 이 설문을 통해, 이미 알려진 뉴스 회피 현상이 우리 학내에서도 만연함을 확인하여, 20대 대학생을 주 타겟으로 선정하는 계기가 되었습니다. 아울러, 추후 다양한 연령대로의 확장 가능성을 염두에 두고, 여러 세대에 적용 가능한 뉴스 소비 솔루션을 도출하고자 했습니다.
 
@@ -45,10 +49,9 @@
 
 지금의 모바일 이용자들은 콘텐츠를 ‘읽기’보다는 ‘훑어보기’에 익숙합니다. 그러나 대부분 뉴스는 여전히 긴 문단과 일방적 구조로 제공되어 이러한 뉴스회피 문제가 심화된다고 판단했습니다. 뉴스 플랫폼도 기존 게시판 구조에서 벗어나, 최신 콘텐츠 트렌드와 이용 환경에 맞춘 변화가 요구됩니다.
 
-[참고자료]
-
-- 뉴스회피 경험에 대한 기사자료 | [‘누가’, ‘왜’ 뉴스 이용하는지 알아야 뉴스 회피 막는다 - 단비뉴스](https://www.danbinews.com/news/articleView.html?idxno=27769)
-- 뉴스회피 사유에 대한 설문통계자료 | ["볼수록 스트레스" 한국인 56% '뉴스 회피' - 매일경제](https://www.mk.co.kr/news/culture/11127088)
+- **[참고자료]**
+  - 뉴스회피 경험에 대한 기사자료 | [‘누가’, ‘왜’ 뉴스 이용하는지 알아야 뉴스 회피 막는다 - 단비뉴스](https://www.danbinews.com/news/articleView.html?idxno=27769)
+  - 뉴스회피 사유에 대한 설문통계자료 | ["볼수록 스트레스" 한국인 56% '뉴스 회피' - 매일경제](https://www.mk.co.kr/news/culture/11127088)
 
 <br/>
 
@@ -73,9 +76,7 @@
 
 ### 1.3. 세부내용
 
-# 뉴스 앱 기능 명세서
-
-## (1) 로그인 및 회원가입
+#### (1) 로그인 및 회원가입
 
 <table>
   <tr>
@@ -116,7 +117,7 @@
   </tr>
 </table>
 
-## (2) 메인 뉴스화면 (Some's up) & 5분 뉴스 보기
+#### (2) 메인 뉴스화면 (Some's up) & 5분 뉴스 보기
 
 <table>
   <tr>
@@ -163,7 +164,7 @@
   </tr>
 </table>
 
-## (3) 마이페이지
+#### (3) 마이페이지
 
 <table>
   <tr>
@@ -209,7 +210,7 @@
 > 저희 팀은 K-ICT 행사에 참석하여 Some’s Up 서비스를 소개하고, 잠재 사용자들의 의견을 청취하는 시간을 가졌습니다. 주요 관심사는 ‘기존 뉴스 서비스 대비 어떤 차별점이 있는지’에 집중되었습니다. 이에 저희는 네이버 뉴스뿐 아니라, 뉴스 요약 및 큐레이팅을 제공하는 다양한 앱 서비스를 직접 사용하고 분석한 결과, 형평성 보장과 큐레이팅 방식에서의 개선 필요성을 찾았습니다.
 
 <div align="center">
-  <img src="">
+  <img width="1053" height="549" alt="스크린샷 2025-08-26 오전 1 54 05" src="https://github.com/user-attachments/assets/84cf95f1-8529-4433-9c97-9ca2a1042b35" />
   <p>기존 서비스 대비 차별성</p>
 </div>
 
@@ -254,7 +255,7 @@
 ### 2.1. 시스템 구성도
 
 <div align="center">
-  <img src="">
+  <img width="1353" height="878" alt="Screenshot 2025-08-16 at 5 13 40 PM" src="https://github.com/user-attachments/assets/3d1026ff-33dd-4931-b10a-4effd103bd21" />
   <p>시스템 구성도</p>
 </div>
 
@@ -312,7 +313,7 @@
 ### 3.1. 전체시스템 흐름도
 
 <div align="center">
-  <img src="">
+  <img width="1430" height="3840" alt="Untitled diagram _ Mermaid Chart-2025-08-18-212050" src="https://github.com/user-attachments/assets/4885b9a8-96cf-47ee-936d-39473ee09ce1" />
   <p>전체시스템 흐름도</p>
 </div>
 
