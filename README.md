@@ -822,11 +822,11 @@ pnpm dev
 
 <table>
   <tr>
-    <th width="5%">이름</th>
-    <th width="23.75%">박준우</th>
-    <th width="23.75%">이다은</th>
-    <th width="23.75%">양준석</th>
-    <th width="23.75%">송수민</th>
+    <th width="10%">이름</th>
+    <th width="22.5%">박준우</th>
+    <th width="22.5%">이다은</th>
+    <th width="22.5%">양준석</th>
+    <th width="22.5%">송수민</th>
   </tr>
   <tr>
     <td>전공</td>
@@ -886,8 +886,8 @@ pnpm dev
 
 <table>
   <tr>
-    <th>이름</th>
-    <th>후기</th>
+    <th width="10%">이름</th>
+    <th width="90%">후기</th>
   </tr>
   <tr>
     <td>박준우</td>
