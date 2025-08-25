@@ -541,7 +541,7 @@
 
 ### 3.4. 디렉토리 구조
 
-```bash
+```
 somesup-cloud
 |____server
 |	|____src
