@@ -80,8 +80,8 @@
 
 <table>
   <tr>
-    <th>기능명</th>
-    <th>상세정보</th>
+    <th><div width="20%">기능명</div></th>
+    <th><div width="80%">상세정보</div></th>
   </tr>
   <tr>
     <td>로그인</td>
@@ -121,15 +121,15 @@
 
 <table>
   <tr>
-    <th>기능명</th>
-    <th>상세정보</th>
+    <th><div width="20%">기능명</div></th>
+    <th><div width="80%">상세정보</div></th>
   </tr>
   <tr>
     <td>메인 뉴스 카드</td>
     <td>기사 사진, 헤드라인, 기사 3줄 요약, 뉴스 카테고리 제공</td>
   </tr>
   <tr>
-    <td>상세 기사 보기 (우측으로 스와이프)</td>
+    <td>상세 기사 보기 <br/>(우측으로 스와이프)</td>
     <td>인덱스 별로 요약된 상세 기사 제공</td>
   </tr>
   <tr>
@@ -168,8 +168,8 @@
 
 <table>
   <tr>
-    <th>기능명</th>
-    <th>상세정보</th>
+    <th width="20%">기능명</th>
+    <th width="80%">상세정보</th>
   </tr>
   <tr>
     <td>닉네임 수정</td>
