@@ -19,7 +19,7 @@
 <br/>
 <div align="center">
   <img width="722" height="360" alt="뉴스회피 (1)" src="https://github.com/user-attachments/assets/1c5d3c84-2653-4788-ac3f-6d631b8e9dcb" />\
-  <p>매체별 뉴스 이용률, <a href="">출처: 달기</a></p>
+  <p>매체별 뉴스 이용률, <a href="https://www.journalist.or.kr/ezview/article_main.html?no=55137">출처: 한국기자협회</a></p>
 </div>
 <br/>
 
@@ -44,7 +44,7 @@
 <br/>
 <div align="center">
   <img width="680" height="275" alt="뉴스신뢰도" src="https://github.com/user-attachments/assets/93bd84bd-0045-48ca-be27-ff5b171bda7b" />
-  <p>뉴스 전반에 대한 신뢰, <a href="">출처: 달기</a></p>
+  <p>뉴스 전반에 대한 신뢰, <a href="https://www.kpf.or.kr/front/user/main.do">출처: 한국언론진흥재단</a></p>
 </div>
 <br/>
 
@@ -53,7 +53,7 @@
 <br/>
 <div align="center">
   <img width="680" height="508" alt="뉴스회피이유2" src="https://github.com/user-attachments/assets/0d4879c8-67e7-406b-9fdc-2cb730462deb" />
-  <p>뉴스 회피 이유, <a href="">출처: 달기</a></p>
+  <p>뉴스 회피 이유, <a href="https://www.kpf.or.kr/front/user/main.do">출처: 한국언론진흥재단</a></p>
 </div>
 <br/>
 
