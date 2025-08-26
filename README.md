@@ -18,7 +18,7 @@
 
 <br/>
 <div align="center">
-  <img width="722" height="360" alt="뉴스회피 (1)" src="https://github.com/user-attachments/assets/1c5d3c84-2653-4788-ac3f-6d631b8e9dcb" />\
+  <img width="722" height="360" alt="뉴스회피 (1)" src="https://github.com/user-attachments/assets/1c5d3c84-2653-4788-ac3f-6d631b8e9dcb" />
   <p>매체별 뉴스 이용률, <a href="https://www.journalist.or.kr/ezview/article_main.html?no=55137">출처: 한국기자협회</a></p>
 </div>
 <br/>
